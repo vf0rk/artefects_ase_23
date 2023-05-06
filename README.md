@@ -10,6 +10,7 @@ We have proposed a new repair technique named REPATT, which incorporates a two-l
 ├── expriment_without_skip.zip  #Experiment logs of RQ2
 ├── lib                         #Essential java libaraies 
 ├── res                         #Log4j settings
+├── repatt.jar                  #Executable Jar File of RePatt
 ├── sbfl_result.zip             #Experiment of our tool in SBFL scenario
 ├── src                         #Source code, based on SimFix
 ├── standard_experiment_log.zip #Experiment logs of RQ1
